@@ -5,5 +5,5 @@ def cheker(var_1):
     else:
         return var_1
 
-first_var = "Hallo"
+first_var = Hallo
 cheker(first_var)
